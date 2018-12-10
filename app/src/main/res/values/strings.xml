@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OmdbCodeLab</string>
+    <string name="omdbdesc">omdbDesc</string>
+    <string name="search_move">Search Move</string>
+    <string name="liner_layout">Liner Layout</string>
+    <string name="constraintlayout">ConstraintLayout</string>
+    <string name="imagemove">ImageMove</string>
+</resources>
